@@ -1,7 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import App from './App';
-// import AnimationDemo from './animition-demo';
-import ReduxTo from './redux-todo';
+import App from './App';
 
-ReactDOM.render(<ReduxTo />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));

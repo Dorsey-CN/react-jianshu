@@ -1,1 +1,0 @@
-export const INIT_LIST_ACTION = 'initListAction';
