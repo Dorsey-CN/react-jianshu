@@ -7,7 +7,7 @@ export const HeaderWrapper = styled.div`
   border-bottom: 1px solid #f0f0f0;
 `
 
-export const Logo = styled.a.attrs({
+export const Logo = styled.span.attrs({
   href: ''
 })`
   position: absolute;
@@ -47,7 +47,7 @@ export const SearchWrapper = styled.div`
   float: left;
   margin-top: 9px;
   margin-left: 20px;
-  .iconfont {
+  .zoom {
     position: absolute;
     right: 5px;
     bottom: 5px;
@@ -102,8 +102,8 @@ export const SearchInfo = styled.div`
   top: 49px;
   left: 0;
   padding: 0 20px;
-  width: 200px;
-  height: 150px;
+  width: 280px;
+  background: #fff;
   box-shadow: 0 0 8px rgba(0, 0, 0, .2);
   box-sizing: border-box;
 `
@@ -119,14 +119,36 @@ export const SearchInfoTitle = styled.div`
 export const SearchInfoSwitch = styled.span`
   float: right;
   font-size: 13px;
-`export const SearchInfoItem = styled.a.attrs({
-//   href: ''
-// })`
-  
-// `
+  cursor: pointer;
+  .spin {
+    display: block;
+    float: left;
+    margin-right: 5px;
+    font-size: 12px;
+    transition: all .2s ease-in;
+    transform-origin: center center;
+  }
+`
 
-// 
-
+export const SearchInfoList = styled.div`
+  clear: both;
+  overflow: hidden;
+`
+export const SearchInfoItem = styled.a.attrs({
+  href: ''
+})`
+  display: block;
+  float: left;
+  line-height: 20px;
+  padding: 0 5px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 12px;
+  color: #787878;
+  text-decoration: none;
+`
 export const Addition = styled.div`
   position: absolute;
   top: 0;

@@ -1,0 +1,96 @@
+{
+  "success": true,
+  "data":
+  {
+    "topicList": [
+    {
+      "id": 1,
+      "title": "社会热点"
+    },
+    {
+      "id": 2,
+      "title": "手绘"
+    }],
+    "articleList": [
+    {
+      "id": 1,
+      "title": "花甲焯水用热水好还是用冷水好?很多人都弄错，难怪吃起来有沙",
+      "desc": "说到炒花甲估计海鲜爱好者已经在流口水了，这道菜的制作其实不难，可是却实实在在的好吃。特别是花甲经过爆炒以后那香味似乎是香，感觉谁家炒了这样一道菜...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/8107105-c44095e1db8c3131.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },
+    {
+      "id": 2,
+      "title": "从盛明兰到魏璎珞：幸福的女人有个共同点",
+      "desc": "文/婉兮  图/网络 1 《知否知否》迎来大结局了。 盛明兰的圆满毋庸置疑：丈夫宠爱家庭和美、功名加身安享富贵，把尘世间的幸福都收入囊中。 这当...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/1812827-7d570774c6e47295.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },
+    {
+      "id": 3,
+      "title": "花甲焯水用热水好还是用冷水好?很多人都弄错，难怪吃起来有沙",
+      "desc": "说到炒花甲估计海鲜爱好者已经在流口水了，这道菜的制作其实不难，可是却实实在在的好吃。特别是花甲经过爆炒以后那香味似乎是香，感觉谁家炒了这样一道菜...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/8107105-c44095e1db8c3131.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },
+    {
+      "id": 4,
+      "title": "从盛明兰到魏璎珞：幸福的女人有个共同点",
+      "desc": "文/婉兮  图/网络 1 《知否知否》迎来大结局了。 盛明兰的圆满毋庸置疑：丈夫宠爱家庭和美、功名加身安享富贵，把尘世间的幸福都收入囊中。 这当...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/1812827-7d570774c6e47295.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }],
+    "recommendList": [
+    {
+      "id": 1,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+    },
+    {
+      "id": 2,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-3-ddcc844ebdd8edca2d93b7ea5a8de79e.png"
+    },
+    {
+      "id": 3,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+    },
+    {
+      "id": 4,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },
+    {
+      "id": 5,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    },
+    {
+      "id": 6,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }],
+    "writerList": [
+    {
+      "id": 1,
+      "avatar": "//upload.jianshu.io/users/upload_avatars/3292545/78f2855a-80fd-419a-9fb2-1aeed39690f0.png?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name": "北美之北",
+      "info": "写了426.2k字 · 28.6k喜欢"
+    },
+    {
+      "id": 2,
+      "avatar": "//upload.jianshu.io/users/upload_avatars/6652326/ba6106f4-20eb-4735-885d-561083bd4e55.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name": "没文化的也距离",
+      "info": "写了285.5k字 · 5k喜欢"
+    },
+    {
+      "id": 3,
+      "avatar": "//upload.jianshu.io/users/upload_avatars/5545154/1a3d5ed6-9ad1-44b3-9457-3e6a29dd1b71.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name": "徐林Grace",
+      "info": "写了695.6k字 · 5.6k喜欢"
+    },
+    {
+      "id": 4,
+      "avatar": "//upload.jianshu.io/users/upload_avatars/2558050/7761b285-2805-4534-9870-ba7dcc7538ec.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name": "阿栈",
+      "info": "写了471k字 · 1.2k喜欢"
+    },
+    {
+      "id": 5,
+      "avatar": "//upload.jianshu.io/users/upload_avatars/677687/c84b99723362.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name": "灰土豆",
+      "info": "写了387.6k字 · 1.7k喜欢"
+    }]
+  }
+}
